@@ -1,0 +1,23 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "git",
+    "commit",
+    "-m",
+    "\"Initial",
+    "commit\""
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git add ."
+  },
+  "license": "ISC",
+  "author": "Radhey Radhey",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  }
+}
